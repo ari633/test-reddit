@@ -5,9 +5,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-Frist, create reddit access token: https://github.com/reddit-archive/reddit/wiki/OAuth2-Quick-Start-Example
+1. Frist, create reddit access token: https://github.com/reddit-archive/reddit/wiki/OAuth2-Quick-Start-Example, then copy the `access_token` to .env `REDDIT_ACCESS_TOKEN` key
 
-Second, run the development server:
+3. Second, run the development server:
 
 ```bash
 npm run dev
